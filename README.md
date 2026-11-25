@@ -287,3 +287,5 @@ $$
 
 2. **构造方面**
 	可以增设更多条件与因素，例如太阳风；也可以增设监测与探究角度，例如：势能梯度图等。
+
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
